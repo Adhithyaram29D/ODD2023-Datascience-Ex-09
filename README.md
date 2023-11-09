@@ -12,11 +12,6 @@ _**Data visualization** is the graphical representation of information and data.
 - **_STEP 3_**: Apply Feature generation and selection techniques to all the features of the data set
 - **_STEP 4_**: Apply data visualization techniques to identify the patterns of the data.
 
-# PROGRAM:
-```
-Developed By: JANARTHANAN V K
-Reg No: 212222230051
-```
 - **_DATASET_**
 ```python
 import seaborn as sns
