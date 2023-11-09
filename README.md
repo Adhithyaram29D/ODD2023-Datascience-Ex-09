@@ -12,6 +12,8 @@ _**Data visualization** is the graphical representation of information and data.
 - **_STEP 3_**: Apply Feature generation and selection techniques to all the features of the data set
 - **_STEP 4_**: Apply data visualization techniques to identify the patterns of the data.
 
+
+
 - **_DATASET_**
 ```python
 import seaborn as sns
@@ -128,6 +130,7 @@ sns.scatterplot(x="total_bill",y="tip",data=df)
 plt.title("Correlation between Tip Amount and Total Bill Amount")
 plt.show()
 ```
+
 <img width="280" alt="280586794-ef1864f3-454f-4a41-81c0-9e39b9907e08" src="https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-09/assets/119393540/5c25207c-95de-421b-bdb3-7e30f6aff55f">
 
 # RESULT:
